@@ -31,6 +31,8 @@ namespace DegerVeReferans
             //yaranir. new demek  heapde alan olustur ve degerleri ora yaz demekdi [10,20,30]
             // heapde de adress var
 
+
+
         }
     }
 }
