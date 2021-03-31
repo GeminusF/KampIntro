@@ -30,9 +30,6 @@ namespace DegerVeReferans
             // referans tipler hem stack hem heapde. sayilar1 deyende stackde sayilar 1
             //yaranir. new demek  heapde alan olustur ve degerleri ora yaz demekdi [10,20,30]
             // heapde de adress var
-
-
-
         }
     }
 }
